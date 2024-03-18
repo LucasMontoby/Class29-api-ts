@@ -1,0 +1,20 @@
+ul{
+    list-style: none;
+    padding: auto;
+}
+
+li{
+    margin: 20px;
+    border: 1 px solid #f3eded;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+h3{
+    margin-bottom: 10px;
+    color: blue;
+}
+
+p{
+    margin: 0%;
+}
